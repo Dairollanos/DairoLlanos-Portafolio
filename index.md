@@ -14,7 +14,7 @@ Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acced
 - Cambio de contraseña
 - Perfil de usuario con imagen de perfil
 - Crear posts
-- Editar y eliminar posts tus propios post
+- Editar y eliminar tus propios post
 - Comentarios por posts
 - Recomendacion de posts similares
 - Tags por posts
