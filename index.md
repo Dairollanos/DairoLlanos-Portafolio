@@ -23,7 +23,7 @@ Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acced
 
 
 ## Contactos
-e-mail: dairoollanos@gmail.com
+**e-mail:** dairoollanos@gmail.com
 
-telefono: 3024576840
+**Telefono:** 3024576840
 
