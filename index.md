@@ -1,7 +1,7 @@
-### Proyectos.
+## Proyectos.
 
-## [Blog](http://dairo.pythonanywhere.com/)
-# [codigo del proyecto](https://github.com/Dairollanos/blog)
+### [Blog](http://dairo.pythonanywhere.com/)
+##### [codigo del proyecto](https://github.com/Dairollanos/blog)
 Tecnologias utilizadas: **Django**.
 
 Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acceder a ella y subir y administrar sus post.
