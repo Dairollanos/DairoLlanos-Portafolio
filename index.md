@@ -1,7 +1,8 @@
 ### Proyectos.
 
 ## [Blog](http://dairo.pythonanywhere.com/)
-Tecnologias utilizadas: **Django**
+Tecnologias utilizadas: **Django**.
+
 Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acceder a ella y subir y administrar sus post.
 **Para acceder rapidamente usar la siguiente cuenta, Usuario: Admin, Contraseña: soyadmin1234**
 
