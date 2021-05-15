@@ -1,37 +1,26 @@
-## Dairo portafolio
+### Proyectos.
 
-You can use the [editor on GitHub](https://github.com/Dairollanos/portafolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [Blog](http://dairo.pythonanywhere.com/)
+Tecnologias utilizadas: **Django**
+Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acceder a ella y subir y administrar sus post.
+**Para acceder rapidamente usar la siguiente cuenta, Usuario: Admin, Contraseña: soyadmin1234**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Caracteristicas del proyecto
+- Registro de usuarios
+- Login de usuarios
+- Cambio de contraseña
+- Perfil de usuario con imagen de perfil
+- Crear posts
+- Editar y eliminar posts tus propios post
+- Comentarios por posts
+- Recomendacion de posts similares
+- Tags por posts
+- Filtrado de posts por medio de tags
+- Posts mas comentados y ultimos posts
+- Paginacion
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contactos
+e-mail: dairoollanos@gmail.com
+telefono: 3024576840
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dairollanos/portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
