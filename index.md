@@ -1,4 +1,4 @@
-# Proyectos.
+# PROYECTOS.
 
 ### [Blog](http://dairo.pythonanywhere.com/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/blog)
