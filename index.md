@@ -1,4 +1,4 @@
-## Proyectos.
+# Proyectos.
 
 ### [Blog](http://dairo.pythonanywhere.com/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/blog)
@@ -8,7 +8,7 @@ Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acced
 
 **Para acceder rapidamente usar la siguiente cuenta, Usuario: Admin, Contraseña: soyadmin1234**
 
-# Caracteristicas del proyecto
+## Caracteristicas del proyecto
 - Registro de usuarios
 - Login de usuarios
 - Cambio de contraseña
