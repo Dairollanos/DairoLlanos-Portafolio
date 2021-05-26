@@ -30,6 +30,7 @@ Tecnologias utilizadas: **Django**.
 El proyecto consiste en una tienda onlie donde el usuario puede agregar productos a su carrito, para finalizar la compra tendra que registrarse. Si el usuario es "comprador" podra ver y comprar todos los productos que desee, si es "Vendedor" ademas de lo anterior, podra tambien agregar nuevos productos. los pagos se hacen mediante Paypal
 
 **Para acceder rapidamente usar la siguiente cuenta, Usuario: Admin, Contraseña: soyadmin1234**
+
 **Usar la siguiente cuenta de paypal para terminar los pagos, E-mail: personaldallp@gmail.com, Contraseña: pruebapaypal**
 
 ## Caracteristicas del proyecto
