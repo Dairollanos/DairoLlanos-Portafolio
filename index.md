@@ -43,6 +43,7 @@ El proyecto consiste en una tienda onlie donde el usuario puede agregar producto
 - Editar tus propios productos
 - Filtrado de productos por categorias
 - Sistema de pagos usando Paypal
+- Detalles de los pedidos disponibles para descargar en PDF
 
 
 ## Contactos
