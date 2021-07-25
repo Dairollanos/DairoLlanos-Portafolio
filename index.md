@@ -45,7 +45,7 @@ El proyecto consiste en una tienda onlie donde el usuario puede agregar producto
 - Sistema de pagos usando Paypal
 - Detalles de los pedidos disponibles para descargar en PDF
 
-### [Quiz App](http://xdairo.pythonanywhere.com/)
+### [Quiz App](https://react-quiz-dallp.netlify.app/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/Quiz-react)
 Tecnologias utilizadas: **React.js**.
 
