@@ -45,6 +45,29 @@ El proyecto consiste en una tienda onlie donde el usuario puede agregar producto
 - Sistema de pagos usando Paypal
 - Detalles de los pedidos disponibles para descargar en PDF
 
+### [Quiz App](http://xdairo.pythonanywhere.com/)
+##### [codigo del proyecto](https://github.com/Dairollanos/Quiz-react)
+Tecnologias utilizadas: **React.js**.
+
+El proyecto consiste en una sencilla aplicacion de preguntas con diferentes opciones (Numero de preguntas, categoria y dificultad).
+
+## Caracteristicas del proyecto
+- Llamados a la API mediante el hook useEffect
+- Manejo de la informacion entre componentes mediante el hook useContext
+- Las opciones de respuesta se muestra aleatoriamente cada vez 
+
+### [Blog App](https://react-blog-dallp.netlify.app/)
+##### [codigo del proyecto](https://github.com/Dairollanos/Blog-react)
+Tecnologias utilizadas: **React.js y Firebase**.
+
+Sencilla aplicacion blog, permite a los usuarios registrarse mediante su correo y una contraseña. permite la creacion de blogs, eliminarlos, actualizar el correo del usuario y recuperar la contraseña
+
+## Caracteristicas del proyecto
+- Crear, eliminar entradas de blog
+- Sistema de registro, autenticacion y actualizacion de datos del usuario implementado utilizando firebase
+- Manejo de la informacion entre componentes mediante el hook useContext
+- Llamados a la API de firebase mediante el hook useEffect
+
 
 ## Contactos
 **e-mail:** dairoollanos@gmail.com
