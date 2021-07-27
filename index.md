@@ -1,6 +1,6 @@
 # PROYECTOS.
 
-### [Blog](http://dairo.pythonanywhere.com/)
+# [Blog](http://dairo.pythonanywhere.com/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/blog)
 Tecnologias utilizadas: **Django**.
 
@@ -23,7 +23,7 @@ Este proyecto consiste en un blog donde el usuario puede crear una cuenta, acced
 - Paginacion
 
 
-### [E-commerce](http://xdairo.pythonanywhere.com/)
+# [E-commerce](http://xdairo.pythonanywhere.com/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/E-commerce)
 Tecnologias utilizadas: **Django**.
 
@@ -45,7 +45,7 @@ El proyecto consiste en una tienda onlie donde el usuario puede agregar producto
 - Sistema de pagos usando Paypal
 - Detalles de los pedidos disponibles para descargar en PDF
 
-### [Quiz App](https://react-quiz-dallp.netlify.app/)
+# [Quiz App](https://react-quiz-dallp.netlify.app/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/Quiz-react)
 Tecnologias utilizadas: **React.js**.
 
@@ -56,7 +56,7 @@ El proyecto consiste en una sencilla aplicacion de preguntas con diferentes opci
 - Manejo de la informacion entre componentes mediante el hook useContext
 - Las opciones de respuesta se muestra aleatoriamente cada vez 
 
-### [Blog App](https://react-blog-dallp.netlify.app/)
+# [Blog App](https://react-blog-dallp.netlify.app/)
 ##### [codigo del proyecto](https://github.com/Dairollanos/Blog-react)
 Tecnologias utilizadas: **React.js y Firebase**.
 
