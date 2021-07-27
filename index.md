@@ -63,8 +63,10 @@ Tecnologias utilizadas: **React.js y Firebase**.
 Sencilla aplicacion blog, permite a los usuarios registrarse mediante su correo y una contraseña. permite la creacion de blogs, eliminarlos, actualizar el correo del usuario y recuperar la contraseña
 
 ## Caracteristicas del proyecto
-- Crear, eliminar entradas de blog
-- Sistema de registro, autenticacion y actualizacion de datos del usuario implementado utilizando firebase
+- Crear, eliminar y actualizar entradas de blog
+- Sistema de registro, autenticacion mediante correo y contraseña 
+- Actualizacion del correo y recuperacion de la contraseña mediante correo
+- Login mediante cuenta de google
 - Manejo de la informacion entre componentes mediante el hook useContext
 - Llamados a la API de firebase mediante el hook useEffect
 
